@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+    <style>
+        body {
+            background-color: aliceblue;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" href="index.html"> Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="pizzas.html">Cardápio</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="promocoes.html">Promoções</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="carrinho.html">Carrinho</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" href="cadastro.html">Cadastro</a>
+        </li>
+    </ul>
+
+    <div class="container-fluid">
+        <div class="card">
+            <div class="card-body">
+
+                <div class="row">
+                    <div class="col-4 offset-1">
+                        <h1>John's Pizzaria</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-7 offset-1">
+                        <h2>Criar sua conta na John's Pizzaria</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-4 offset-1">
+                        <h3>Acessar sua conta</h3>
+                    </div>
+                </div>
+
+
+
+                <form action="">
+                    <div class="row">
+                        <div class="col-4  offset-1 form-group">
+                            <input placeholder="Nome" class="form-control" name="nome" type="text">
+                        </div>
+                        <div class="col-3 form-group">
+                            <input placeholder="Sobrenome" class="form-control" name="sobrenome" type="text">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-7  offset-1 form-group">
+                            <input placeholder="Seu endereço de e-mail" class="form-control" name="email" type="email">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-3  offset-1 form-group">
+                            <input placeholder="Senha" class="form-control" name="senha" type="password" id="senha">
+                        </div>
+                        <div class="col-4 form-group">
+                            <input placeholder="Confirmar senha" class="form-control" name="confirmar" type="password" id="confirmar">
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-2 offset-1 form-group">
+                            <button type="button" class="btn btn-primary btn-lg">Cadastrar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script>
+        window.onload = function() {
+            Initialize();
+        }
+
+        function Initialize() {
+            document.getElementById("senha").addEventListener("keyup", function() {
+                verificarPW();
+            });
+            document.getElementById("confirmar").addEventListener("keyup", function() {
+                verificarPW();
+            });
+        }
+
+        function verificarPW() {
+            var pwDigitada = document.getElementById("senha").value;
+            var pwConfirma = document.getElementById("confirmar").value;
+
+            if (pwDigitada != pwConfirma) {
+                mudaCampo("senha", "vermelho");
+                mudaCampo("confirmar", "vermelho");
+            } else {
+                mudaCampo("senha", "verde");
+                mudaCampo("confirmar", "verde");
+            }
+        }
+
+        function mudaCampo(nome, cor) {
+            var campo = document.getElementById(nome);
+
+            if (cor == "vermelho") {
+                campo.className = "form-control border-danger";
+            } else if (cor == "verde") {
+                campo.className = "form-control border-success";
+            }
+        }
+
+    </script>
+</body>
+
+</html>

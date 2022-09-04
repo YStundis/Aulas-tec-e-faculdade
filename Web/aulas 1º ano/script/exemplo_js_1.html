@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Testando JavaScript</title>
+    <style>
+        .branco { color:white; }
+        .vermelho { color: red; }
+    </style>
+    
+</head>
+<body>
+    <p id="teste">Esse é um teste!</p>
+<script>
+    // busca do objeto
+    var objeto = document.getElementById("teste");
+    
+    //objeto.className = "branco";
+    
+    objeto.addEventListener("mouseover", mudaBranco);
+    objeto.addEventListener("mouseout", mudaVermelho);
+    
+    
+    function mudaVermelho() {
+        objeto.className = "vermelho";
+    }
+    
+    function mudaBranco() {
+        objeto.className = "branco";
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+</script>
+</body>
+</html>

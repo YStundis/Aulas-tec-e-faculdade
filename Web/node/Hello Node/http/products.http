@@ -1,0 +1,25 @@
+POST http://localhost:3000/products
+content-type: application/json
+
+{
+    "name": "Hello World",
+    "price": 42.42
+}
+
+###
+GET http://localhost:3000/products
+
+###
+GET http://localhost:3000/products/12dd9d67-a5e9-4df0-86a0-90cb2ec67941
+
+###
+PUT http://localhost:3000/products/12dd9d67-a5e9-4df0-86a0-90cb2ec67941
+content-type: application/json
+
+{
+    "name": "Hello World Changed",
+    "price": 42.42
+}
+
+###
+DELETE http://localhost:3000/products/12dd9d67-a5e9-4df0-86a0-90cb2ec67941

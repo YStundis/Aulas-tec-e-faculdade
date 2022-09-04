@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.exe.config
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.exe
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.pdb
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\obj\Debug\TDE3_PE.Properties.Resources.resources
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.exe
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.pdb
+C:\Users\User\source\repos\TDE3-PE\TDE3-PE\obj\Debug\TDE3_PE.Pedido.resources
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.exe.config
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.exe
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.pdb
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\obj\Debug\TDE3_PE.Pedido.resources
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\obj\Debug\TDE3_PE.Properties.Resources.resources
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.exe
+C:\Users\User\Desktop\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.pdb
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.exe.config
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.exe
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\bin\Debug\TDE3-PE.pdb
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\obj\Debug\TDE3_PE.Pedido.resources
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\obj\Debug\TDE3_PE.Properties.Resources.resources
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.exe
+C:\Users\User\Desktop\UNIFEB\EAD\1º ANO\1º SEMESTRE\ProgramaçãoEstruturada-PE\TDE3-PE\TDE3-PE\TDE3-PE\obj\Debug\TDE3-PE.pdb

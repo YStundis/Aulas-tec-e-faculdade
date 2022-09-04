@@ -1,0 +1,5 @@
+Yuri|(11) 11111-1111|Cristiano C|10 - Lasanha|02 - Refrigerante
+Kauan|(22) 22222-2222|Marilha|20 - Victor|10 - Victor
+Victor|(33) 33333-3333|Barretos2|10 - Lasanha|03 - Guarana jesus
+Alexandre|(44) 44444-4444|Unifeb|17 - Mané Pelado|09 - CachaçaTeste|(  )      -|teste|10 - Lasanha|01 - Nutela
+teste|(55) 55555-5555|teste|07 - Milk Shake|01 - Nutela

@@ -1,0 +1,4 @@
+Exercício
+
+1. Utilizando a página de exemplo form_radio01.php, crie uma página que recebe a cor favorita de um usuário e envia para recebe_radio01.php, a página recebe_radio01.php deve exibir a cor de fundo selecionada pelo usuário na página form_radio01.php.
+

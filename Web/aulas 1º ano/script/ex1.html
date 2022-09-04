@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Testando JavaScript</title>
+    <style>
+        .white{color:ghostwhite;}
+        .red{color:indianred;}
+        .black{color:black;}
+        
+    </style>
+</head>
+<body>
+    <p id="yuli">Sou um texto secreto ~ENIGMAS~</p>
+    <script>
+        //buscando obj
+        var objeto = document.getElementById("yuli");
+        document.body.style.backgroundColor = "#adbdeb";
+        
+        objeto.addEventListener("mouseover", colorred);
+        objeto.addEventListener("mouseout" , colorwhite);
+        objeto.addEventListener("mousedown" , colorblack);
+        
+        function colorred()  {objeto.className = "red";}
+        function colorwhite(){objeto.className = "white";}
+        function colorblack(){objeto.className = "black";}
+    </script>
+</body>
+</html>

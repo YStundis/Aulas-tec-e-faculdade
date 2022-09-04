@@ -1,0 +1,15 @@
+POST http://localhost:3001/about 
+content-type: application/json
+
+{
+    "id": "42",
+    "title": "Hello World",
+    "content": "Lorem Ipsum"
+}
+
+###
+GET http://localhost:3001/about
+
+###
+GET http://localhost:3001/
+

@@ -1,0 +1,6 @@
+Pesquisar em https://servicodados.ibge.gov.br/api/docs/localidades?versao=1
+
+Como obter os outros números de estados.
+
+Preencher corretamente as cidades quando o usuário selecionar o estado.
+

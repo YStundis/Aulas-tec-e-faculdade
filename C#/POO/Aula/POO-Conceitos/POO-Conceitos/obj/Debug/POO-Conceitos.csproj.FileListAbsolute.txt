@@ -1,0 +1,11 @@
+C:\Users\alexandre.salvatierr\source\repos\POO-Conceitos\POO-Conceitos\bin\Debug\POO-Conceitos.exe.config
+C:\Users\alexandre.salvatierr\source\repos\POO-Conceitos\POO-Conceitos\bin\Debug\POO-Conceitos.exe
+C:\Users\alexandre.salvatierr\source\repos\POO-Conceitos\POO-Conceitos\bin\Debug\POO-Conceitos.pdb
+C:\Users\alexandre.salvatierr\source\repos\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.csprojAssemblyReference.cache
+C:\Users\alexandre.salvatierr\source\repos\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.salvatierr\source\repos\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.exe
+C:\Users\alexandre.salvatierr\source\repos\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.pdb
+C:\Users\User\Desktop\UNIFEB\Presencial\2º ANO\1º SEMESTRE\Programação Orientada a Objetos - POO\C#\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UNIFEB\Presencial\2º ANO\1º SEMESTRE\Programação Orientada a Objetos - POO\C#\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNIFEB\Presencial\2º ANO\1º SEMESTRE\Programação Orientada a Objetos - POO\C#\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.exe
+C:\Users\User\Desktop\UNIFEB\Presencial\2º ANO\1º SEMESTRE\Programação Orientada a Objetos - POO\C#\POO-Conceitos\POO-Conceitos\obj\Debug\POO-Conceitos.pdb

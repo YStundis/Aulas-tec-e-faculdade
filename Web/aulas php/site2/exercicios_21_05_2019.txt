@@ -1,0 +1,23 @@
+Exercício
+
+1. Crie uma página (produtos.php) que exiba 3 produtos e permita que o usuário selecione o produto com caixa de seleção (checkbox) e selecione a quantidade do produto com intervalo (range) de 0 a 10 unidades, além disso você deve receber a data de entrega que o cliente prefere receber. Envie os dados para a página calcula.php.
+
+2. A página calcula.php deve exibir uma tabela da seguinte maneira:
+
+| Produto | Quantidade | Total |
+| Maçã    |  3         | 1,50  |
+
+Em seguida deve ser exibida outra tabela:
+
+| Total       | 1,50 |
+| Frete       | 2,00 |
+| Valor total | 3,50 | 
+
+O valor do frete deve ser calculado assim:
+
+Frete = (quantidade * 0,25) + (10 - 0,33 * dias)
+
+dias é a quantidade de dias que falta até o dia da entrega.
+
+O valor total é a soma dos valores dos produtos e do frete.
+

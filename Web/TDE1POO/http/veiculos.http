@@ -1,0 +1,27 @@
+POST http://localhost:3000/veiculos
+content-type: application/json
+
+{
+    "name": "Traker",
+    "color": "Blue",
+    "price": 70.000
+}
+
+###
+GET http://localhost:3000/veiculos
+
+###
+GET http://localhost:3000/veiculos/56cae4fd-43c1-40d9-93b2-51cae49696b1
+
+###
+PUT http://localhost:3000/veiculos/56cae4fd-43c1-40d9-93b2-51cae49696b1
+content-type: application/json
+
+{
+    "name": "Traker",
+    "color": "Red",
+    "price": 60.000
+}
+
+###
+DELETE http://localhost:3000/veiculos/8120cf39-5b04-4167-a9e5-79e028c2f928

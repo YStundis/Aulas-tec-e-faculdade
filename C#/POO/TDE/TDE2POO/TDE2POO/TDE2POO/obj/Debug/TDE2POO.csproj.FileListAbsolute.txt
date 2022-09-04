@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\TDE2POO\TDE2POO\bin\Debug\TDE2POO.exe.config
+C:\Users\User\Desktop\TDE2POO\TDE2POO\bin\Debug\TDE2POO.exe
+C:\Users\User\Desktop\TDE2POO\TDE2POO\bin\Debug\TDE2POO.pdb
+C:\Users\User\Desktop\TDE2POO\TDE2POO\obj\Debug\TDE2POO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TDE2POO\TDE2POO\obj\Debug\TDE2POO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TDE2POO\TDE2POO\obj\Debug\TDE2POO.exe
+C:\Users\User\Desktop\TDE2POO\TDE2POO\obj\Debug\TDE2POO.pdb

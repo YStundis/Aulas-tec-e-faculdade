@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script>
+        var corpo;
+        var even;
+        window.onload = function() {
+            var elementos = document.getElementsByTagName("body");
+            corpo = elementos[0];
+            
+            corpo.addEventListener("keydown", function(evento) {
+               console.log(evento);
+               even= evento;
+                if(evento.key == "g") {window.location="http://www.google.com"; }
+            });
+        }
+    </script>
+    <style>
+        h1 {
+            font-size: 5vw;
+        }
+        p#para1 {
+            color: coral;
+        }
+        
+        p.par {
+            color: deepskyblue;
+        }
+        
+        #a,#c {
+            color: violet;
+        }
+        #b,#d {
+            color: blueviolet;
+        }
+        
+    </style>
+
+</head>
+
+<body>
+   <h1 class="par">OI</h1>
+    <p id="para1">Teste</p>
+    <p class="par">Segundo</p>
+    <p>T<span id="a">e</span>r<span  id="b">c</span>e<span  id="c">i</span>r<span  id="d">o</span></p>
+    <p class="par">Quarto</p>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+1 Devem abrir o BrModelo
+2 Criar o Projeto Lógico do BDClinicaMédica 
+3 Gerar o código SQL 
+4 Criar uma pasta com nome da dupla ou trio e gravar: Arquivo lógico criado e o Código SQL gerado 
+5 Gravar pasta criada na pasta compartilhada.
+
+SEM COCÔ LÓGICO HEIN
